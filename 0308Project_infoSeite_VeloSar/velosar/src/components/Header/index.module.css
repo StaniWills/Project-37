@@ -1,0 +1,17 @@
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+}
+.menu{
+    display: flex;
+    gap: 70px;
+
+}
+.menu a{
+    text-decoration: none;
+}
