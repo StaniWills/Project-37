@@ -1,0 +1,28 @@
+.offer{
+    background-color: #62D0DF;
+}
+
+.content{
+    display: flex;
+    padding: 0 0 0px 171px;
+    gap: 160px;
+}
+
+.content_text{
+    padding: 130px 0;
+}
+
+.title{
+    width: 361px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.description{
+    font-size: 24px;
+    color: #FFFFFF;
+    font-style: italic;
+    line-height: 35px;
+    font-weight: 400;
+}

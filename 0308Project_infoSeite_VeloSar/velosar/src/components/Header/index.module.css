@@ -1,17 +1,50 @@
-.container{
-    max-width: 1440px;
-    margin: 0 auto;
+.header{
+    background-color:#F4F9E2;
 }
+
 .nav{
     display: flex;
     justify-content:space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 17px 160px 0 160px;
     width: 100%;
 }
 .menu{
     display: flex;
-    gap: 70px;
 
+    gap: 70px;
 }
+
 .menu a{
     text-decoration: none;
+    color:#000000;
+    size: 14px;
+}
+
+.button{
+    padding: 16px 40px;
+    background-color: #F9B640;
+    color: white;
+    border-radius: 50px;
+}
+
+.content{
+    display: flex;
+    padding: 126px 160px 165px 160px;
+    gap: 50px;
+}
+
+.title{
+    width: 610px;
+    font-size: 48px;
+    font-style: italic;
+    font-weight: 400;
+    color: #22356F;
+}
+
+.description{
+    color: #22356F;
+    font-size: 24px;
+    line-height: 53px;
 }
