@@ -1,17 +1,14 @@
 .offer{
     background-color: #62D0DF;
 }
-
 .content{
     display: flex;
     padding: 0 0 0px 171px;
     gap: 160px;
 }
-
 .content_text{
     padding: 130px 0;
 }
-
 .title{
     width: 361px;
     font-size: 36px;
