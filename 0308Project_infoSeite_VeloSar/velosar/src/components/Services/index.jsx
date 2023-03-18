@@ -8,13 +8,13 @@ export default function Services() {
         <section className='container'>
             <div className={s.block_container}>
                 <div className={s.block_item1}>
-                    <p>Annual maintenance</p>
+                    <p className={s.text}>Annual maintenance</p>
                 </div>
                 <div  className={s.block_item2}>
-                    <p>Alignment wheels</p>
+                    <p className={s.text}>Alignment wheels</p>
                 </div>
                 <div  className={s.block_item3}>
-                    <p>Setting switches</p>
+                    <p className={s.text}>Setting switches</p>
                 </div>
             </div>
         </section>

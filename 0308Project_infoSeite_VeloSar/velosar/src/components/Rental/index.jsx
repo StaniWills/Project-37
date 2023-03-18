@@ -14,7 +14,7 @@ export default function Rental() {
                         <p>Bicycle rental</p>
                     </div>
                     <div  className={s.block_item2}>
-                        <p>You can rent well-maintained and tuned bikes from us. We are located in a beautiful park!</p>
+                        <p className={s.text}>You can rent well-maintained and tuned bikes from us. We are located in a beautiful park!</p>
                     </div>
                 </div>
             </div>

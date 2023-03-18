@@ -17,7 +17,11 @@
 .block_item2{
     font-size: 36px;
     font-style: italic;
-    line-height: 35px;
+
     font-weight: 400;
     color: #22356F;   ;
+}
+
+.text{
+    line-height: 53px;
 }

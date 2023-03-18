@@ -36,3 +36,8 @@
     line-height: 34px;
     font-style: italic;
 }
+
+.text{
+    border-top: 2px solid white ;
+    padding-top: 30px;
+}
