@@ -1,0 +1,21 @@
+.main{
+    background-color: aqua;
+    height: 100vh;
+    width: 100%;
+}
+
+.container{
+    max-width: 1088px;
+    margin: 0 auto;
+    padding: 79px 0 0 0;
+}
+
+.form{
+    border-radius: 20px;
+    height: 179px;
+    width: 100%;
+    background-color: #ECF0F1;
+
+
+
+}
